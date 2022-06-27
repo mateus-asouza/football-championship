@@ -13,3 +13,8 @@ This is a page made with html and css.
   ```
 
 - Open the project folder and open the file index.html in your preferred browser.
+
+## Link Netilify
+
+Click to view the site:
+https://football-championship.netlify.app/
